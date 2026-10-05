@@ -26,8 +26,8 @@ Foco em fundamentos: tipos, condicionais, loops, funções, arrays, `std::string
 | # | Projeto | Conceitos praticados | Status |
 |---|---|---|---|
 | 01 | [Calculadora simples](basico/01-calculadora-simples) | funções, `switch`/`if`, tratamento de divisão por zero | ✅ |
-| 02 | [Conversor de temperaturas](basico/02-conversor-temperaturas) | tipos numéricos, funções, menu | ⬜ |
-| 03 | [Jogo de adivinhação de números](basico/03-adivinhacao) | números aleatórios, `while`, contagem de tentativas | ⬜ |
+| 02 | [Conversor de temperaturas](basico/02-conversor-temperaturas) | tipos numéricos, funções, menu | ✅ |
+| 03 | [Jogo de adivinhação de números](basico/03-adivinhacao) | números aleatórios, `while`, contagem de tentativas | ✅ |
 | 04 | [Tabuada interativa](basico/04-tabuada) | loops aninhados, formatação de saída | ⬜ |
 | 05 | [Verificador de números primos](basico/05-primos) | loops, otimização até √n, complexidade | ⬜ |
 | 06 | [Calculadora de IMC](basico/06-imc) | `double`, faixas com `else if` | ⬜ |
@@ -112,7 +112,7 @@ g++ main.cpp Conta.cpp -o programa
  
 ## 📈 Progresso
  
-**Básico:** 1/10 · **Intermediário:** 0/10 (1 em andamento) · **Total:** 1/20
+**Básico:** 3/10 · **Intermediário:** 0/10 (1 em andamento) · **Total:** 3/20
  
 ---
  
