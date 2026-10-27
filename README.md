@@ -9,6 +9,16 @@ Repositório com os projetos que estou desenvolvendo enquanto aprendo C++, do b�
  
 ---
  
+## 🎬 Demonstração
+
+<p align="center">
+  <img src="assets/adivinhacao-demo.gif" alt="Jogo de adivinhação vencido com busca binária" />
+</p>
+
+<p align="center"><i>Projeto 03 – Jogo de adivinhação, vencido usando busca binária.</i></p>
+
+---
+
 ## 📋 Legenda de status
  
 | Ícone | Significado |

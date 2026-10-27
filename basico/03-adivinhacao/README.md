@@ -6,6 +6,14 @@ Terceiro projeto do repositório, feito para praticar números aleatórios, loop
  
 ---
  
+## 🎬 Demonstração
+
+<p align="center">
+  <img src="../../assets/adivinhacao-demo.gif" alt="Jogo de adivinhação vencido com busca binária" />
+</p>
+
+---
+
 ## ✨ Funcionalidades
  
 - O jogador **escolhe o intervalo** (mínimo e máximo) do número sorteado
