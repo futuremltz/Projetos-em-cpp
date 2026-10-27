@@ -1,4 +1,9 @@
 # 🔧 Projetos em C++
+
+<p>
+  <a href="https://github.com/futuremltz/Projetos-em-cpp/actions/workflows/build.yml"><img src="https://github.com/futuremltz/Projetos-em-cpp/actions/workflows/build.yml/badge.svg" alt="Build" /></a>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/licen%C3%A7a-MIT-blue.svg" alt="Licença MIT" /></a>
+</p>
  
 Repositório com os projetos que estou desenvolvendo enquanto aprendo C++, do básico até orientação a objetos e estruturas de dados. Cada projeto fica em uma pasta própria, com código comentado e instruções para compilar.
  

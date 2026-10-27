@@ -1,0 +1,22 @@
+name: Build
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Compilar todos os projetos
+        run: |
+          for main in $(find . -name main.cpp); do
+            dir=$(dirname "$main")
+            echo "::group::$dir"
+            g++ -std=c++17 -Wall -Wextra "$dir"/*.cpp -o "$dir/programa"
+            echo "::endgroup::"
+          done
